@@ -11,6 +11,10 @@ adapters, hooks, custom agents, LSP, Apps, OAuth, or TUI extensions.
 
 Standalone source: https://github.com/Presisitence/bio-research-forge
 
+## Companion figure library (optional)
+
+For a local scientific figure gallery beyond this plugin's RNA volcano / PCA / heatmap tools, see the optional companion [Scientific Figure Library](https://github.com/xuzhougeng/ScientificFigureLibrary). It is **not bundled** here—install it separately (Node.js 22+; see that repo's QUICKSTART). Bio Research Forge keeps its own RNA figure pipeline; SFL is a separate local gallery. See [ATTRIBUTION.md](ATTRIBUTION.md).
+
 ## Try it
 
 ```text
